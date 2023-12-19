@@ -1,0 +1,21 @@
+,account ID,branch,name,operation,amount
+1,3001,north,A,deposit,1000
+2,3001,north,A,deposit,1000
+3,1001,east,C,deposit,1000
+4,2002,west,D,deposit,1000
+5,2001,west,E,deposit,1000
+6,1002,east,F,deposit,1000
+7,2003,west,G,deposit,1000
+8,3002,north,H,deposit,1000
+9,4002,south,I,deposit,1000
+10,2003,west,G,withdraw,200
+11,2001,west,E,withdraw,500
+12,4001,south,B,deposit,5000
+13,3002,north,H,withdraw,100
+14,3001,north,A,withdraw,150
+15,1001,east,C,deposit,1000
+16,3001,north,A,deposit,900
+17,2001,west,E,deposit,2000
+18,4001,south,B,withdraw,1600
+19,3001,north,A,withdraw,2000
+20,1001,east,C,deposit,950
